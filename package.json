@@ -1,15 +1,16 @@
 {
   "name": "ascii-codes",
   "main": "./lib/ascii-codes",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "description": "Atom package to auto convert special characters into ASCII codes",
-  "activationEvents": ["ascii-codes:toggle"],
+  "activationEvents": [
+    "ascii-codes:toggle"
+  ],
   "repository": "https://github.com/microtroll/ascii-codes",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

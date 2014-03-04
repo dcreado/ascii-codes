@@ -1,0 +1,15 @@
+{
+  "name": "ascii-codes",
+  "main": "./lib/ascii-codes",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Ascii codegenerator for special chars",
+  "activationEvents": ["ascii-codes:toggle"],
+  "repository": "https://github.com/atom/ascii-codes",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}

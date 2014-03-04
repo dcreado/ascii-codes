@@ -1,0 +1,199 @@
+'.html, .html, .js, .php, .java, .jsp':
+  'À':
+    'prefix': 'À'
+    'body': '&Agrave;'
+  'Á':
+    'prefix': 'Á'
+    'body': '&Acute;'
+  'Â':
+    'prefix': 'Â'
+    'body': '&Acirc;'
+  'Ã':
+    'prefix': 'Ã'
+    'body': '&Atilde;'
+  'Ä':
+    'prefix': 'Ä'
+    'body': '&Auml;'
+  'Å':
+    'prefix': 'Å'
+    'body': '&Aring;'
+  'Æ':
+    'prefix': 'Æ'
+    'body': '&AElig;'
+  'Ç':
+    'prefix': 'Ç'
+    'body': '&Ccedil;'
+  'È':
+    'prefix': 'È'
+    'body': '&Egrave;'
+  'É':
+    'prefix': 'É'
+    'body': '&Eacute;'
+  'Ê':
+    'prefix': 'Ê'
+    'body': '&Ecirc;'
+  'Ë':
+    'prefix': 'Ë'
+    'body': '&Euml;'
+  'Ì':
+    'prefix': 'Ì'
+    'body': '&Igrave;'
+  'Í':
+    'prefix': 'Í'
+    'body': '&Iacute;'
+  'Î':
+    'prefix': 'Î'
+    'body': '&Icirc;'
+  'Ï':
+    'prefix': 'Ï'
+    'body': '&Iuml;'
+  'Ð':
+    'prefix': 'Ð'
+    'body': '&ETH;'
+  'Ñ':
+    'prefix': 'Ñ'
+    'body': '&Ntilde;'
+  'Õ':
+    'prefix': 'Õ'
+    'body': '&Otilde;'
+  'Ö':
+    'prefix': 'Ö'
+    'body': '&Ouml;'
+  'Ø':
+    'prefix': 'Ø'
+    'body': '&Oslash;'
+  'Ù':
+    'prefix': 'Ù'
+    'body': '&Ugrave;'
+  'Ú':
+    'prefix': 'Ú'
+    'body': '&Uacute;'
+  'Û':
+    'prefix': 'Û'
+    'body': '&Ucirc;'
+  'Ü':
+    'prefix': 'Ü'
+    'body': '&Uuml;'
+  'Ý':
+    'prefix': 'Ý'
+    'body': '&Yacute;'
+  'Þ':
+    'prefix': 'Þ'
+    'body': '&THORN;'
+  'ß':
+    'prefix': 'ß'
+    'body': '&szlig;'
+  'à':
+    'prefix': 'à'
+    'body': '&agrave;'
+  'á':
+    'prefix': 'á'
+    'body': '&aacute;'
+  'å':
+    'prefix': 'å'
+    'body': '&aring;'
+  'æ':
+    'prefix': 'æ'
+    'body': '&aelig;'
+  'ç':
+    'prefix': 'ç'
+    'body': '&ccedil;'
+  'è':
+    'prefix': 'è'
+    'body': '&egrave;'
+  'é':
+    'prefix': 'é'
+    'body': '&eacute;'
+  'ê':
+    'prefix': 'ê'
+    'body': '&ecirc;'
+  'ë':
+    'prefix': 'ë'
+    'body': '&euml;'
+  'ì':
+    'prefix': 'ì'
+    'body': '&igrave;'
+  'í':
+    'prefix': 'í'
+    'body': '&iacute;'
+  'î':
+    'prefix': 'î'
+    'body': '&icirc;'
+  'ï':
+    'prefix': 'ï'
+    'body': '&iuml;'
+  'ð':
+    'prefix': 'ð'
+    'body': '&eth;'
+  'ñ':
+    'prefix': 'ñ'
+    'body': '&ntilde;'
+  'ò':
+    'prefix': 'ò'
+    'body': '&ograve;'
+  'ó':
+    'prefix': 'ó'
+    'body': '&oacute;'
+  'ô':
+    'prefix': 'ô'
+    'body': '&ocirc;'
+  'õ':
+    'prefix': 'õ'
+    'body': '&otilde;'
+  'ö':
+    'prefix': 'ö'
+    'body': '&ouml;'
+  'ø':
+    'prefix': 'ø'
+    'body': '&oslash;'
+  'ù':
+    'prefix': 'ù'
+    'body': '&ugrave;'
+  'ú':
+    'prefix': 'ú'
+    'body': '&uacute;'
+  'û':
+    'prefix': 'û'
+    'body': '&ucirc;'
+  'ý':
+    'prefix': 'ý'
+    'body': '&yacute;'
+  'þ':
+    'prefix': 'þ'
+    'body': '&thorn;'
+  'ÿ':
+    'prefix': 'ÿ'
+    'body': '&yuml;'
+  '€':
+    'prefix': '€'
+    'body': '&#128;'
+  'Š':
+    'prefix': 'Š'
+    'body': '&#138;'
+  'Œ':
+    'prefix': 'Œ'
+    'body': '&#140;'
+  'Ž':
+    'prefix': 'Ž'
+    'body': '&#142;'
+  'š':
+    'prefix': 'š'
+    'body': '&#154;'
+  'œ':
+    'prefix': 'œ'
+    'body': '&#156;'
+  'ž':
+    'prefix': 'ž'
+    'body': '&#158;'
+  '¡':
+    'prefix': '¡'
+    'body': '&#161;'
+  '¢':
+    'prefix': '¢'
+    'body': '&#162;'
+  '£':
+    'prefix': '£'
+    'body': '&#163;'
+  '¥':
+    'prefix': '¥'
+    'body': '&#165;'

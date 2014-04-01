@@ -1,4 +1,4 @@
-'.html, .html, .js, .php, .java, .jsp':
+'.html, .htm, .js, .coffee, .json, .php, .java, .jsp, .xml, .sql':
   'À':
     'prefix': 'À'
     'body': '&Agrave;'

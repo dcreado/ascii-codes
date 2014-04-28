@@ -1,7 +1,7 @@
 {
   "name": "ascii-codes",
   "main": "./lib/ascii-codes",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
   "description": "Atom package to auto convert special characters into ASCII codes",
   "repository": "https://github.com/microtroll/ascii-codes",

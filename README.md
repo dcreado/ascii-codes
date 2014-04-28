@@ -1,6 +1,8 @@
 AsciiCodes
 ==========
 
+_v0.2.0_
+
 
 Atom package to auto convert special characters into ASCII codes
 

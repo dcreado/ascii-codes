@@ -197,21 +197,3 @@
   '¥':
     'prefix': '¥'
     'body': '&#165;'
-  '©':
-    'prefix': '©'
-    'body': '&copy;'
-  '®':
-    'prefix': '®'
-    'body': '&reg;'
-  '™':
-    'prefix': '™'
-    'body': '&#153;'
-  '«'
-    'prefix': '«'
-    'body': '&#171;'
-  '»'
-    'prefix': '»'
-    'body': '&#187;'
-  '§'
-    'prefix': '§'
-    'body': '&#167;'

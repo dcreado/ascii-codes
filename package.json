@@ -7,7 +7,7 @@
   "repository": "https://github.com/microtroll/ascii-codes",
   "license": "MIT",
   "engines": {
-    "atom": ">0.92.0"
+    "atom": ">0.132.0"
   },
   "dependencies": {}
 }

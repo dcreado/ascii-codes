@@ -1,4 +1,4 @@
-'.html, .htm, .js, .coffee, .json, .php, .java, .jsp, .xml, .sql':
+'.html, .htm, .js, .coffee, .json, .cson, .php, .java, .jsp, .xml, .sql':
   'À':
     'prefix': 'À'
     'body': '&Agrave;'
@@ -221,3 +221,15 @@
   '¶':
     'prefix': '¶'
     'body': '&#182;'
+  'Heart':
+    'prefix': 'ascii-heart'
+    'body': '&#9829;'
+  'Star':
+    'prefix': 'ascii-star'
+    'body': '&#9733;'
+  'Male':
+    'prefix': 'ascii-male'
+    'body': '&#9794;'
+  'Female':
+    'prefix': 'ascii-female'
+    'body': '&#9792;'

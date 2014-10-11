@@ -11,6 +11,9 @@
   'Ã':
     'prefix': 'Ã'
     'body': '&Atilde;'
+  'ã':
+    'prefix': 'ã'
+    'body': '&atilde;'
   'Ä':
     'prefix': 'Ä'
     'body': '&Auml;'
